@@ -1,7 +1,7 @@
 from input import input_file
 from statistics import mode
 
-input_values = input_file('AoC#3_input.txt')
+input_values = input_file('input_files/day3_input.txt')
 lists = [[] for _ in range(13)]
 def part1(file_list):
     for i in file_list:
