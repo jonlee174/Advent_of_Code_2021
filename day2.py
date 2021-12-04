@@ -1,4 +1,3 @@
-
 from input import input_file
 
 file = input_file('input_files/day2_input.txt')
